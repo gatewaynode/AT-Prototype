@@ -1,0 +1,12 @@
+**/.DS_Store
+**/__pycache__/
+/analysis
+/result
+
+analysis.txt
+
+.venv
+.venv/**
+
+GLM-4.7
+GLM-4.7/**
