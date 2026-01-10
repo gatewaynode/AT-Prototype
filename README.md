@@ -1,3 +1,17 @@
+# REFACTOR IN PROGRESS
+
+This repository is not for general use.  I am using it to study the work to see if I can update it for current models and take it further.
+
+@misc{hung2024attentiontrackerdetectingprompt,
+    title={Attention Tracker: Detecting Prompt Injection Attacks in LLMs}, 
+    author={Kuo-Han Hung and Ching-Yun Ko and Ambrish Rawat and I-Hsin Chung and Winston H. Hsu and Pin-Yu Chen},
+    year={2024},
+    eprint={2411.00348},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    url={https://arxiv.org/abs/2411.00348}, 
+}
+
 # Attention Tracker: Detecting Prompt Injection Attacks in LLMs
 
 Welcome to the official repository for **"Attention Tracker: Detecting Prompt Injection Attacks in LLMs"**. This repository provides scripts and tools to identify important attention heads and evaluate prompt injection attacks on large language models (LLMs).
